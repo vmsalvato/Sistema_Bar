@@ -46,10 +46,10 @@ namespace Sistema_Bar
                 }
                 else
                 {
-                    listBox1.Items.Add(textBox1.Text + "--" + produtos[indice] + "-- R$ " + valor[indice]);
+                    listBox1.Items.Add(textBox1.Text + " ------ " + produtos[indice] + "  ------ R$ " + valor[indice]);
                     soma = soma + valor[indice];
                     label3.Text = ("Valor Total R$ " + soma);
-                    picImagem.ImageLocation = "../Sistema_Bar/image/" + codigo[indice] + ".png";
+                    picImagem.ImageLocation = "C:/Users/Vinicius/Desktop/Sistema_Bar/image/" + codigo[indice] + ".png";
                     textBox1.Text = "";
                     textBox1.Focus();
                 }

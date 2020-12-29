@@ -1,0 +1,10 @@
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\bin\Debug\Sistema_Bar.exe.config
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\bin\Debug\Sistema_Bar.exe
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\bin\Debug\Sistema_Bar.pdb
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\obj\Debug\Sistema_Bar.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\obj\Debug\Sistema_Bar.Form1.resources
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\obj\Debug\Sistema_Bar.Properties.Resources.resources
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\obj\Debug\Sistema_Bar.csproj.GenerateResource.cache
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\obj\Debug\Sistema_Bar.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\obj\Debug\Sistema_Bar.exe
+C:\Users\Vinicius\Desktop\Sistema_Bar\Sistema_Bar\obj\Debug\Sistema_Bar.pdb
